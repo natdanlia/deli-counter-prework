@@ -9,6 +9,3 @@ def line(katz_deli_line)
   end
   "The line is currently: #{line_info.join(",")}"
 end
-
-
-    
