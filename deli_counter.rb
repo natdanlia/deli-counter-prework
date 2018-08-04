@@ -10,5 +10,6 @@ def line(katz_deli_line)
   end
   "The line is currently: #{line_info.join(",")}"
   else
-    
+    "The line is currently empty."
+  end
 end
