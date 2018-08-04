@@ -1,6 +1,6 @@
 # Write your code here.
 
-katz_deli = ['jj','kk','tt' ]
+#katz_deli = ['jj','kk','tt' ]
 
 def line(katz_deli_line)
   line_info = []
