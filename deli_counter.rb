@@ -1,6 +1,7 @@
-
+require 'pry'
 
 def line(katz_deli_line)
+  binding.pry
   line_info = []
   if katz_deli_line.length > 0 
   katz_deli_line.each_with_index do |people, index|
