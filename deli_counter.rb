@@ -22,4 +22,4 @@ def now_serving(katz_deli_line)
     jj = katz_deli_line.shift
     puts "currently serving #{jj}"
   end
-  
+end  
